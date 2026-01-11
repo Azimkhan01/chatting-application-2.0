@@ -105,3 +105,13 @@ If you want:
 - deployment instructions
 
 Just tell me 👌
+
+### Personal Dev Mode 
+<img width="1091" height="192" alt="image" src="https://github.com/user-attachments/assets/e52b0d87-d2c6-4851-927d-55a091ffe668" />
+
+### Private and group message at same point 
+<img width="1918" height="566" alt="image" src="https://github.com/user-attachments/assets/b8dd8a2a-d728-4bb3-b761-125e50e7132f" />
+
+### Realtime typing update
+<img width="1913" height="368" alt="image" src="https://github.com/user-attachments/assets/456039ae-dc73-4266-ae50-07913984f889" />
+
